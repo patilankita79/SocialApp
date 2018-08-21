@@ -34,8 +34,8 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   
   Authetication functionalities / Backend using NodeJS, MongoDB -
   - Allow user to sign up and login
-  - In Sign Up, authentication is added, error messages are displayed if certain conditions are not matched
-  - If user does not exist, then error message will be displayed for users that don't exist
+  - In Sign Up, authentication is added, error messages are displayed if certain conditions are not matched (validation)
+  - If user does not exist, then error message will be displayed for users that don't exist (validation)
   - Use of **JSON Web Token**
   
   
