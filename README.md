@@ -18,6 +18,16 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
 - Image Upload
 - Chat functionality
 
+<hr>
+
+## Steps 
+
+1. Create Authentication Components 
+  - Sign Up
+  - Login
+  
+<hr>
+
 ## References
 
 1. [Materialize CSS](https://materializecss.com/)
