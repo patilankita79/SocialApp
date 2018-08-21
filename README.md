@@ -47,3 +47,4 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
 1. [Materialize CSS](https://materializecss.com/)
 2. [Angular CLI Wiki](https://github.com/angular/angular-cli/wiki)
 3. [Prettier](https://www.npmjs.com/package/prettier)
+4. [JOI](https://www.npmjs.com/package/joi) - Object schema description language and validator for JavaScript objects
