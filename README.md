@@ -26,16 +26,19 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   - Sign Up
   - Login
   
-  User Interface of Authentication Components
+  User Interface of Authentication Components using Materialize CSS
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/SignUp.PNG" />
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/Login.PNG" />
   <br>
   
-  Authetication functionalities -
+  
+  Authetication functionalities / Backend using NodeJS, MongoDB -
   - Allow user to sign up and login
   - In Sign Up, authentication is added, error messages are displayed if certain conditions are not matched
   - If user does not exist, then error message will be displayed for users that don't exist
   - Use of **JSON Web Token**
+  
+  
   
 <hr>
 
