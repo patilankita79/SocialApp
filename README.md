@@ -26,6 +26,9 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   - Sign Up
   - Login
   
+  <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/SignUp.PNG" />
+  <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/Login.PNG" />
+  
 <hr>
 
 ## References
