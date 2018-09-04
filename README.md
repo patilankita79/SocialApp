@@ -42,7 +42,8 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   - Before data is saved to the database, password is encrypted using **bcryptjs**
   - Use of **JSON Web Token**
   <br>
-  **API Call to create a user**<br>
+  
+  **API Call to create/register a user**<br>
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/UserCreationWithEncryptedPassword.PNG" />
   
   **Database entry in MongoDB**<br>
