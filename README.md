@@ -43,13 +43,13 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   - Use of **JSON Web Token**
   <br>
   
-  **API Call to create/register a user**<br>
+  **API Call to create/register a user (Status code - 201 CREATED)** <br> 
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/UserCreationWithEncryptedPassword.PNG" />
   
   **Database entry in MongoDB**<br>
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/UserCreation-Database%20entry.PNG" />
   
-  **If email is already registered, then user cannot be created**<br>
+  **If email is already registered, then user cannot be created (Status code - 409 CONFLICT)**<br>
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/Validation-IfEmailAlreadyExists.PNG" />
   
   
