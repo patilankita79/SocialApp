@@ -35,11 +35,17 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   Authetication functionalities / Backend using NodeJS, MongoDB -
   - Allow user to sign up and login
   - In Sign Up, authentication is added, error messages are displayed if certain conditions are not matched (validation)
-    - Check if email already exists
-    - Check if username already exists
+    - Check if email already exists, convert the email id to lowercase
+    - Check if username already exists, convert the first letter of username to uppercase
   - If user does not exist, then error message will be displayed for users that don't exist (validation)
   - Before data is saved to the database, password is encrypted using **bcryptjs**
   - Use of **JSON Web Token**
+  
+  API Call to create a user
+  <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/UserCreationWithEncryptedPassword.PNG" />
+  
+  Database entry in MongoDB
+  <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/UserCreation-Database%20entry.PNG" />
   
   
   
