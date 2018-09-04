@@ -40,7 +40,10 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
     - Check if username already exists, convert the first letter of username to uppercase
   - If user does not exist, then error message will be displayed for users that don't exist (validation)
   - Before data is saved to the database, password is encrypted using **bcryptjs**
-  - Use of **JSON Web Token**
+  - Use of [JSON Web Token](https://www.npmjs.com/package/jsonwebtoken) to add authentication to the application - Authorization and information exchange
+    - Sign/Create a new token with expiration time
+    - Save the token in the cookie and check if it is still valid
+    - Hence, whenever a request is made, token will be added to authorization header of the request 
   <br>
   
   **API Call to create/register a user (Status code - 201 CREATED)** <br> 
@@ -64,3 +67,4 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
 4. [JOI](https://www.npmjs.com/package/joi) - Object schema description language and validator for JavaScript objects
 5. [https-status-codes](https://www.npmjs.com/package/http-status-codes)
 6. [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+7. [JSON Web Tokens](https://jwt.io/)
