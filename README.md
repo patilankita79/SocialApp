@@ -49,6 +49,9 @@ A web application with MEAN Stack (MongoB, Express, Angular, NodeJS)
   **Database entry in MongoDB**<br>
   <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/UserCreation-Database%20entry.PNG" />
   
+  **If email is already registered, then user cannot be created**<br>
+  <img src="https://github.com/patilankita79/SocialApp/blob/master/Screenshots/Validation-IfEmailAlreadyExists.PNG" />
+  
   
   
 <hr>
